@@ -88,12 +88,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zinhocoder/zinhocoder/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Rgon">
+  <a href="https://open.spotify.com/user/2uhr8sy9m3yslln727ge4dqsg">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rgon&count=5" alt="Spotify recently played"  />
   </a>
 </div>

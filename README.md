@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Algumas línguagens que domino:</h2>
+<h2 align="left">Algumas linguagens que domino:</h2>
 
 ###
 
